@@ -28,7 +28,7 @@ int main() {
         switch (opcao) {
             case 1:
                 funcao1();
-                cout << "Estou a desenvolver o jogo1 \n";
+                cout << "Estou a desenvolver o jogo 1 \n";
                 break;
             case 2:
                 funcao2();
